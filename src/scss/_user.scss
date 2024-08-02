@@ -11,3 +11,9 @@
 .jarallax-container {
   top: 1px !important;
 }
+
+@media screen and (max-width: 480px) {
+  .text-sm-mobile {
+    font-size: .8rem;
+  }
+}
