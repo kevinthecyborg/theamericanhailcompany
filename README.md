@@ -1,3 +1,3 @@
-# THE AMERICAN HAIL COMPANYT
+# THE AMERICAN HAIL COMPANY
 
 Official website for theamericanhailcompany.com
